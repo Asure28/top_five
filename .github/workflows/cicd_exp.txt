@@ -1,0 +1,1 @@
+I have not had any prior experiences with CI/CD. This is a new concept for me and I am glad to have of learned it as it helps with autnomonousing.
